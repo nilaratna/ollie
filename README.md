@@ -7,12 +7,12 @@ Ollie is an open-source DIY autonomous robotic blimp who is vulnerable, socially
 
 Ollie is available to DIYers, hobbyists, artists, designers, and students under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/]). 
 
-For questions, praise or love email Ollie at [contact@meandollie.com](mailto:contact@meandollie.com)
+For questions, praise or love email Ollie at [ollie@nilaratna.com](mailto:ollie@nilaratna.com)
 
 Installation
 =====
 
-Complete setup and tutorial available at [http://meandollie.com/make/](http://meandollie.com/make/).
+Complete setup and tutorial available at [http://ollie.nilaratna.com/make/](http://ollie.nilaratna.com/make/).
 
 
 Credits
